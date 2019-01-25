@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.lucanet</groupId>
 	<artifactId>Mini-SOAP-ERP</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Mini-SOAP-ERP</name>
 	<description>SOAP Web-Service for MiniERP</description>
 
