@@ -13,9 +13,9 @@ public class CostCenterRepository extends AbstractRepository<CostCenter> {
   @PostConstruct
   @SuppressWarnings("unused") // invoked by Spring Container
   private void init() {
-    put(new CostCenter("1", "Büro Berlin"));
-    put(new CostCenter("2", "Büro München"));
-    put(new CostCenter("3", "Büro MGL"));
+    put(new CostCenter("1", "Office Berlin"));
+    put(new CostCenter("2", "Office Munich"));
+    put(new CostCenter("3", "Office MGL"));
   }
 
 }
